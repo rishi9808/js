@@ -37,3 +37,4 @@ let place = null; //null value
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); //object
+
